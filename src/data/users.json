@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "username": "root",
+        "password": "root",
+        "name": "管理者",
+        "email": "root@gmail.com"
+    }
+]
