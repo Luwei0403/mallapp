@@ -5,7 +5,7 @@ MallApp 是一款 **模擬購物商城的跨平台 App**，使用 **React Native
 ---
 
 ## 技術棧（Tech Stack）
-- 前端框架**：React Native（基於 Class Component+ Dva框架）
+- 前端框架**：React Native（基於 Class Component + 生命週期方法）
 - 狀態管理**：Dva + React-Redux
 - UI/動畫**：Figma、React Native Elements、React Native 原生組件、Fontawesome
 - 導航**：React Navigation 
